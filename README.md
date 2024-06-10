@@ -1,7 +1,16 @@
 # Computer-Vision
 From basics to projects in computer vision.
 
-Details of all the python codes below - 
+## CAVEAT - 
+Tensorflow saved models (.h5 format) are of exceeding size, so you can take a pretrained model instead. 
+Also, the images can be personalized. 
+
+## ENVIRONMENT - 
+All codes are executed on Pycharm Community version 2022.3.1
+Packages installed  -> numpy, matplotlib, opencv-python, opencv-python-headless, tensorflow. 
+Virtual environment created in the project folder itself.
+
+## DETAILS OF ALL CODES - 
 1. usingWebcam.py
 This code snippet tells how to use the webcam to get real-time data.
 
@@ -41,6 +50,7 @@ This is a hand gesture recognition code, it recognizes the hands using mediapipe
 13. project3.py
 This is a modification to project1 using project2. We use hands to draw. It now has an erase option as well.
 
-NOTE:
+## NOTE:
 I have taken references from a lot of sources including youtube (especially, ). Codes may seem familiar to others' but it is not my intention to plagiarise. I have summarized whatever I have learnt and coded. 
 Thanks for reading!
+
