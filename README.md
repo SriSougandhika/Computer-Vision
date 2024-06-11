@@ -51,6 +51,6 @@ This is a hand gesture recognition code, it recognizes the hands using mediapipe
 This is a modification to project1 using project2. We use hands to draw. It now has an erase option as well.
 
 ## NOTE
-I have taken references from a lot of sources including youtube (especially, ). Codes may seem familiar to others' but it is not my intention to plagiarise. I have summarized whatever I have learnt and coded. 
+I have taken references from a lot of sources including youtube (thanks to this video, https://youtu.be/WQeoO7MI0Bs). Codes may seem familiar to others' but it is not my intention to plagiarise. I have summarized whatever I have learnt and coded. 
 Thanks for reading!
 
